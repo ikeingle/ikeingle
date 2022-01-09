@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikeingle
-- 👀 I’m interested in using analytics to drive better business decisions
+- 👀 I’m interested in using analytics and data science tools to drive better business decisions
 - 🌱 I’m currently learning analytics at NCSU's Institute for Advanced Analytics
 - 📫 How to reach me: giingle@ncsu.edu
 
